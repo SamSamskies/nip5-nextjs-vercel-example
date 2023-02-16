@@ -1,6 +1,6 @@
 # nip5-nextjs-vercel-example
 
-This is a basic example of to configure your Next.js app to be a NIP-05 server.
+This is a basic example of how to configure your Next.js app to be a NIP-05 server.
 
 1. Create a `.well-known` in the `public` folder.
 1. Create a `nostr.json` file in the `.well-known` folder. See [NIP-05 docs](https://github.com/nostr-protocol/nips/blob/master/05.md) for more details.
