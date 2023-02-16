@@ -2,7 +2,7 @@
 
 This is a basic example of how to configure your Next.js app to be a NIP-05 server.
 
-1. Create a `.well-known` in the `public` folder.
+1. Create a `.well-known` folder in the `public` folder.
 1. Create a `nostr.json` file in the `.well-known` folder. See [NIP-05 docs](https://github.com/nostr-protocol/nips/blob/master/05.md) for more details.
 1. Enable CORS for the `nostr.json` file in the `next.config.js`.
 1. Deploy the app to Vercel.
